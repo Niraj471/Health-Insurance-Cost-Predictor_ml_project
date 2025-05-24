@@ -1,6 +1,1 @@
 "# Health-Insurance-Cost-Predictor_ml_project" 
-"# Health-Insurance-Cost-Predictor_ml_project" 
-"# Health-Insurance-Cost-Predictor_ml_project" 
-"# Health-Insurance-Cost-Predictor_ml_project" 
-"# Health-Insurance-Cost-Predictor_ml_project" 
-"# Health-Insurance-Cost-Predictor_ml_project" 
